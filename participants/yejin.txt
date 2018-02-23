@@ -3,4 +3,4 @@ ykim104
 
 Research roboticist
 
-**Motivation:** have something to point people to when they ask if I know how to program, instead of trying to convince them (unconvincingly). <- This. Too adopt fun projects and learn to build new models.
+**Motivation:** have something to point people to when they ask if I know how to program, instead of trying to convince them (unconvincingly). <- This. And to adopt fun projects and learn to build new models/re-implement papers on my own.
